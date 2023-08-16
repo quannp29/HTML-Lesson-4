@@ -1,0 +1,46 @@
+.color-red {
+    color: red;
+}
+
+#color-green {
+    color: green;
+}
+
+.test-div{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+.test-div2 {
+    width: 100%;
+    height: 200px;
+    background-image: url(../images/khoa-hoc-front-end.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.box-1 {
+    border: 5px solid #000000;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.box-2 {
+    border: 10px dashed #CCCCCC;
+    background-color: red;
+    color: white;
+    background-clip: padding-box;
+    text-align: right;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.font-css {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
